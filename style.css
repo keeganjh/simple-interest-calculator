@@ -1,0 +1,15 @@
+/* set background color and font family */
+body {background-color:black;font-family:arial;color:white}
+
+/* set font color and family */
+h1{color:grey;font-family:verdana}
+ 
+/* declare maindiv class */
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
